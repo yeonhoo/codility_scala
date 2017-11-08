@@ -64,4 +64,13 @@ Lessons from [Codility](https://codility.com) written in Scala, but most of them
 * [Flags]
 * [Peaks]
 
+**Misc:**
 
+* [FileSizeGroup] 100%
+* [WinterSummerSlice] 100%
+
+**Puzzle**
+
+* [Tree1]
+* [Tree2]
+* [Tree3]
