@@ -55,7 +55,7 @@ Lessons from [Codility](https://codility.com) written in Scala, but most of them
 
 * [MaxDoubleSliceSum]
 * [MaxSliceSum]
-* [MaxProfit]
+* [MaxProfit] 100%
 
 **Prime and Composite Numbers:**
 
